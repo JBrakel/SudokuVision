@@ -24,6 +24,20 @@ The project follows a structured approach:
 6. **Result Visualization**: Draw the solved Sudoku grid on the original image.
 
 ## 📊 Results
+
+**Image 1**  
+![Sudoku Solved](results/img_1.png)  
+
+**Image 2**  
+![Sudoku Solved](results/img_2.png)  
+
+**Image 3**  
+![Sudoku Solved](results/img_3.png)  
+
+**Image 4**  
+![Sudoku Solved](results/img_4.png) 
+
+## 🔍 Summary
 - Successfully detects Sudoku grids from various images.
 - Extracted numbers align correctly within grid cells.
 - Solves most puzzles efficiently within seconds.
